@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\AddCarView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AddClassView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AddDriverView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AddParentView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AddStudentView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\CarView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ClassView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\CreateRideView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\DriverView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ParentView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\RideView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\StudentView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UpdateCarView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UpdateClassView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UpdateDriverView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UpdateParentView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UpdateStudentView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\AddCarView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AddClassView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AddDriverView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AddParentView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AddStudentView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CarView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ClassView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CreateRideView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\DriverView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ParentView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\RideView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\StudentView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UpdateCarView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UpdateClassView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UpdateDriverView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UpdateParentView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UpdateStudentView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,85 @@
+﻿<Application x:Class="Bus.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Bus"
+             xmlns:views="clr-namespace:Bus.Views"
+             xmlns:viewmodels="clr-namespace:Bus.ViewModels"
+             StartupUri="Views/MainView.xaml">
+    <Application.Resources>
+
+        <ResourceDictionary>
+
+
+            <DataTemplate DataType="{x:Type viewmodels:DriverViewModel}">
+                <views:DriverView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:AddDriverViewModel}">
+                <views:AddDriverView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:UpdateDriverViewModel}">
+                <views:UpdateDriverView/>
+            </DataTemplate>
+
+            
+            <DataTemplate DataType="{x:Type viewmodels:CarViewModel}">
+                <views:CarView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:AddCarViewModel}">
+                <views:AddCarView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:UpdateCarViewModel}">
+                <views:UpdateCarView/>
+            </DataTemplate>
+            
+            
+            <DataTemplate DataType="{x:Type viewmodels:ParentViewModel}">
+                <views:ParentView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:AddParentViewModel}">
+                <views:AddParentView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:UpdateParentViewModel}">
+                <views:UpdateParentView/>
+            </DataTemplate>
+            
+            
+            <DataTemplate DataType="{x:Type viewmodels:ClassViewModel}">
+                <views:ClassView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:AddClassViewModel}">
+                <views:AddClassView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:UpdateClassViewModel}">
+                <views:UpdateClassView/>
+            </DataTemplate>
+            
+            
+            <DataTemplate DataType="{x:Type viewmodels:StudentViewModel}">
+                <views:StudentView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:AddStudentViewModel}">
+                <views:AddStudentView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:UpdateStudentViewModel}">
+                <views:UpdateStudentView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewmodels:RideViewModel}">
+                <views:RideView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:CreateRideViewModel}">
+                <views:CreateRideView/>
+            </DataTemplate>
+
+
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Indigo.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+
+        </ResourceDictionary>
+    </Application.Resources>
+
+</Application>

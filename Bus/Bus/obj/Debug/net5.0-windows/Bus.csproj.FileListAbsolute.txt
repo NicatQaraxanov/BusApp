@@ -1,0 +1,327 @@
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Views\CarView.g.cs
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Views\DriverView.g.cs
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Views\MainView.g.cs
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Bus_MarkupCompile.cache
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Bus_MarkupCompile.lref
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Views\CarView.baml
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Views\DriverView.baml
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Views\MainView.baml
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Bus.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\ref\Bus.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Bus.pdb
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Bus.exe
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Bus.deps.json
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Bus.runtimeconfig.json
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Bus.runtimeconfig.dev.json
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Bus.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\ref\Bus.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Bus.pdb
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Qara_nj17\source\repos\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\App.baml
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Bus.g.resources
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Bus.AssemblyInfoInputs.cache
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Bus.AssemblyInfo.cs
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Bus.csproj.CoreCompileInputs.cache
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Bus.csproj.CopyComplete
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Bus.genruntimeconfig.cache
+C:\Users\Qara_nj17\source\repos\Bus\Bus\obj\Debug\net5.0-windows\Bus.csproj.AssemblyReference.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Views\CarView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Views\DriverView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Views\MainView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Bus_MarkupCompile.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Bus_MarkupCompile.lref
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Bus.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\ref\Bus.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Bus.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Bus.exe
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Bus.deps.json
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Bus.runtimeconfig.json
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Bus.runtimeconfig.dev.json
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Bus.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\ref\Bus.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Bus.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\App.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Views\CarView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Views\DriverView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Views\MainView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Bus.g.resources
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Bus.AssemblyInfoInputs.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Bus.AssemblyInfo.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Bus.csproj.CoreCompileInputs.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Bus.csproj.CopyComplete
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Bus.genruntimeconfig.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Views\AddDriverView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Views\AddDriverView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Bus.csproj.AssemblyReference.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateDriverView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateDriverView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Views\AddCarView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\Bus\Bus\obj\Debug\net5.0-windows\Views\AddCarView.baml
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Bus.exe
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Bus.deps.json
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Bus.runtimeconfig.json
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Bus.runtimeconfig.dev.json
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Bus.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\ref\Bus.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Bus.pdb
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\AddCarView.g.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\AddDriverView.g.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\CarView.g.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\DriverView.g.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\MainView.g.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateDriverView.g.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Bus_MarkupCompile.cache
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Bus_MarkupCompile.lref
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\App.baml
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\AddCarView.baml
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\AddDriverView.baml
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\CarView.baml
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\DriverView.baml
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\MainView.baml
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateDriverView.baml
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Bus.g.resources
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Bus.AssemblyInfoInputs.cache
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Bus.AssemblyInfo.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Bus.csproj.CoreCompileInputs.cache
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Bus.csproj.CopyComplete
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Bus.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\ref\Bus.dll
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Bus.pdb
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Bus.genruntimeconfig.cache
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateCarView.g.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateCarView.baml
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\ParentView.g.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\ParentView.baml
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\AddParentView.g.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\AddParentView.baml
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateParentView.g.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateParentView.baml
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\ClassView.g.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\ClassView.baml
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\AddClassView.g.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\AddClassView.baml
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateClassView.g.cs
+C:\Users\Qara_nj17\Desktop\Buss\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateClassView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Bus.exe
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Bus.deps.json
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Bus.runtimeconfig.json
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Bus.runtimeconfig.dev.json
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Bus.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\ref\Bus.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Bus.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\AddCarView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\AddClassView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\AddDriverView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\AddParentView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\CarView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\ClassView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\DriverView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\MainView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\ParentView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateCarView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateClassView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateDriverView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateParentView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Bus_MarkupCompile.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Bus_MarkupCompile.lref
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\App.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\AddCarView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\AddClassView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\AddDriverView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\AddParentView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\CarView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\ClassView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\DriverView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\MainView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\ParentView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateCarView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateClassView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateDriverView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateParentView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Bus.g.resources
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Bus.AssemblyInfoInputs.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Bus.AssemblyInfo.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Bus.csproj.CoreCompileInputs.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Bus.csproj.CopyComplete
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Bus.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\ref\Bus.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Bus.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Bus.genruntimeconfig.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\AddStudentView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\StudentView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\AddStudentView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\StudentView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateStudentView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\UpdateStudentView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\CreateRideView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\CreateRideView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\RideView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Views\RideView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\RealBus\Bus\Bus\obj\Debug\net5.0-windows\Bus.csproj.AssemblyReference.cache
